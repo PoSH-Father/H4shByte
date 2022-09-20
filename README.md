@@ -10,7 +10,7 @@
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/JIX9t2j0ZTN9S" />
 
 ### My name is Moe
 - Penetration Tester with focus on Operational Technology and Web Apps. 
