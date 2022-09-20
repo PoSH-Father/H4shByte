@@ -14,8 +14,10 @@
 
 ### My name is Moe
 - Penetration Tester with focus on Operational Technology and Web Apps. 
-- Currently side projects include bug hunting, AppSec automation with Python, and .
-  - AppSec automation with Python <a alt="Github - Web App Exploit" href="https://github.com/H4shByte"> </a>
-* Bullet list
-              * Nested bullet
-* Bullet list item 2
+- Currently side projects:
+  - AppSec
+  - Web App exploit automation with Python
+  - PowerPEAS (rebuilding winPEAS in PowerShell)
+- Also play the piano as a hobby and currently learning:
+  - Viva la Vida by ColdPlay
+  - Intersteller main theme by Hans Zimmer
