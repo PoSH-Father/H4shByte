@@ -17,7 +17,7 @@
   - SCADA, DCS, etc.
   - Web Apps, Active Directory, Network, etc.
   - SAST and DAST on COTS apps + internally developed apps
-- Currently side projects:
+- Current side projects:
   - AppSec
   - Web App exploit automation with Python
   - PowerPEAS (rebuilding winPEAS in PowerShell)
