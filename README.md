@@ -16,6 +16,7 @@
 - Penetration Tester working on:
   - SCADA, DCS, etc.
   - Web Apps, Active Directory, Network, etc.
+  - SAST and DAST on COTS apps + internally developed apps
 - Currently side projects:
   - AppSec
   - Web App exploit automation with Python
