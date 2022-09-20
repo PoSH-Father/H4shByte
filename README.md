@@ -10,7 +10,7 @@
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="[https://media1.giphy.com/media/2hgs0tfvTzTzlZPaqG/giphy.gif?cid=ecf05e47exbinf3jm99hojs0goqjoqg0wqrjnk3tgg6mikzr&rid=giphy.gif&ct=g](https://i.giphy.com/media/o0vwzuFwCGAFO/giphy.webp)" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47exbinf3jm99hojs0goqjoqg0wqrjnk3tgg6mikzr&rid=giphy.gif&ct=g" />
 
 ### My name is Moe
 - Penetration Tester with focus on Operational Technology and Web Apps. 
