@@ -13,7 +13,9 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=ecf05e47exbinf3jm99hojs0goqjoqg0wqrjnk3tgg6mikzr&rid=giphy.gif&ct=g" />
 
 ### My name is Moe
-- Penetration Tester with focus on Operational Technology and Web Apps. 
+- Penetration Tester working on:
+  - SCADA, DCS, etc.
+  - Web Apps, Active Directory, Network, etc.
 - Currently side projects:
   - AppSec
   - Web App exploit automation with Python
