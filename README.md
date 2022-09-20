@@ -14,7 +14,7 @@
 
 ### My name is Moe
 - Penetration Tester with focus on Operational Technology and Web Apps. 
-- Currently side projects include bug hunting, AppSec automation with Python, and .
+  - Currently side projects include bug hunting, AppSec automation with Python, and .
 -
 * Bullet list
               * Nested bullet
