@@ -14,9 +14,9 @@
 
 ### My name is Moe
 - Penetration Tester working on:
-  - SCADA, DCS, etc.
+  - SCADA, HMI, etc.
   - Web Apps, Active Directory, Network, etc.
-  - SAST and DAST on COTS apps + internally developed apps
+  - dynamic testing and source code review on enterprise web applications
 - Current side projects:
   - AppSec
   - Web App exploit automation with Python
