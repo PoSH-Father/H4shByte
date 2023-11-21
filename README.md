@@ -17,6 +17,6 @@
   - SCADA, HMI, etc.
   - Web Apps, Active Directory, Network, etc.
   - dynamic testing and source code review on enterprise web applications
-- Current side projects:
+- Current projects:
   - Application Security
   - Cloud Security
